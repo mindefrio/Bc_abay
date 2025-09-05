@@ -75,26 +75,26 @@
     {
       "id": "111",
       "categoryId": "f1",
-      "name": "Алмуханова Анара Акылбековна",
-      "desc": "Алмуханова Анара Акылбековна"
+      "name": "ТОО "Дом Учета"",
+      "desc": "ТОО "Дом Учета""
     },
     {
       "id": "112",
       "categoryId": "f1",
-      "name": "Ресепшн",
-      "desc": "Ресепшн"
+      "name": "Охрана ресепшн",
+      "desc": "Охрана ресепшн"
     },
     {
       "id": "113",
       "categoryId": "f1",
-      "name": "Администрация",
-      "desc": "Администрация"
+      "name": "PROFI 8 ТОО»",
+      "desc": "PROFI 8 ТОО»"
     },
     {
       "id": "114",
       "categoryId": "f1",
-      "name": "Кофетерий",
-      "desc": "Кофетерий"
+      "name": "Администрация",
+      "desc": "Администрация"
     },
     {
       "id": "115",
@@ -177,14 +177,19 @@
     {
       "id": "201",
       "categoryId": "f2",
-      "name": "ALISHA ИП  №201",
-      "desc": "ALISHA ИП"
+      "name": "Abai baspasy ТОО",
+      "desc": "Abai baspasy ТОО"
     },
     {
       "id": "202",
       "categoryId": "f2",
       "name": "БУКЕНОВА ИП",
       "desc": "БУКЕНОВА ИП"
+    },{
+      "id": "203",
+      "categoryId": "f2",
+      "name": "МЕРУЕРТ ИП",
+      "desc": "МЕРУЕРТ ИП"
     },
     {
       "id": "204",
@@ -193,16 +198,58 @@
       "desc": "КРЕДО ИП"
     },
     {
+      "id": "205",
+      "categoryId": "f2",
+      "name": "Асыл ИП",
+      "desc": "Асыл ИП"
+    },
+    {
+      "id": "206",
+      "categoryId": "f2",
+      "name": "NSK Trans Logistics ТОО",
+      "desc": "NSK Trans Logistics ТОО"
+    },
+    {
+      "id": "207",
+      "categoryId": "f2",
+      "name": "PROF MEBEL ИП",
+      "desc": "PROF MEBEL ИП"
+    },
+    {
+      "id": "208",
+      "categoryId": "f2",
+      "name": "UMMED ТОО",
+      "desc": "UMMED ТОО"
+    },
+    {
+      "id": "209",
+      "categoryId": "f2",
+      "name": "Garant_Ipoteki.Almaty ТОО",
+      "desc": "Garant_Ipoteki.Almaty ТОО"
+    },
+    {
       "id": "210",
       "categoryId": "f2",
       "name": "Figura IT (Фигура Айти) ТОО №210",
       "desc": "Figura IT (Фигура Айти) ТОО"
     },
     {
+      "id": "211",
+      "categoryId": "f2",
+      "name": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ",
+      "desc": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ"
+    },
+    {
       "id": "212",
       "categoryId": "f2",
       "name": "Figura IT (Фигура Айти) ТОО №212",
       "desc": "Figura IT (Фигура Айти) ТОО"
+    },
+    {
+      "id": "213",
+      "categoryId": "f2",
+      "name": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ",
+      "desc": "МЫРЗАХАН АЙТАХАН БІРЖАНҰЛЫ"
     },
     {
       "id": "214",
@@ -213,8 +260,8 @@
     {
       "id": "215",
       "categoryId": "f2",
-      "name": "ЭКСПРЕСС ЛАЙН ТОО №215",
-      "desc": "ЭКСПРЕСС ЛАЙН ТОО"
+      "name": "VELTA TRANS ТОО №215",
+      "desc": "VELTA TRANS ТОО"
     },
     {
       "id": "216",
@@ -225,8 +272,8 @@
     {
       "id": "217",
       "categoryId": "f2",
-      "name": "ЭКСПРЕСС ЛАЙН ТОО №217",
-      "desc": "ЭКСПРЕСС ЛАЙН ТОО"
+      "name": "VELTA TRANS ТОО №217",
+      "desc": "VELTA TRANS ТОО"
     },
     {
       "id": "220",
@@ -253,10 +300,16 @@
       "desc": "Fruiteamood ИП"
     },
     {
+      "id": "306",
+      "categoryId": "f3",
+      "name": "PDD АВТОШКОЛА",
+      "desc": "PDD АВТОШКОЛА"
+    },
+    {
       "id": "308",
       "categoryId": "f3",
-      "name": "BATYR ИП №308",
-      "desc": "BATYR ИП"
+      "name": "Fruiteamood ИП №308",
+      "desc": "Fruiteamood ИП"
     },
     {
       "id": "309",
@@ -267,8 +320,8 @@
     {
       "id": "314",
       "categoryId": "f3",
-      "name": "Кабдулины ИП",
-      "desc": "Кабдулины ИП"
+      "name": "Fruiteamood ИП №314",
+      "desc": "Fruiteamood ИП"
     },
     {
       "id": "401",
@@ -279,8 +332,14 @@
     {
       "id": "402",
       "categoryId": "f4",
-      "name": "AL-Shifa ИП",
-      "desc": "AL-Shifa ИП"
+      "name": "АлатауСтройМастер ТОО",
+      "desc": "АлатауСтройМастер"
+    },
+    {
+      "id": "403",
+      "categoryId": "f4",
+      "name": "Монтажспецстрой АО",
+      "desc": "Монтажспецстрой"
     },
     {
       "id": "412",
@@ -291,8 +350,44 @@
     {
       "id": "413",
       "categoryId": "f4",
-      "name": "Cropi Max ТОО №413",
-      "desc": "Cropi Max ТОО"
+      "name": "Smartplat №413",
+      "desc": "Smartplat ТОО"
+    },
+    {
+      "id": "501",
+      "categoryId": "f5",
+      "name": "ЕСКАРАЕВА ЖАНАТ КИДИРАЛИЕВНА",
+      "desc": "ЕСКАРАЕВА ЖАНАТ КИДИРАЛИЕВНА"
+    },
+    {
+      "id": "502",
+      "categoryId": "f5",
+      "name": "Восток-Электрик",
+      "desc": "Восток-Электрик"
+    },
+    {
+      "id": "503",
+      "categoryId": "f5",
+      "name": "Centre Nova Diagnostic",
+      "desc": "Centre Nova Diagnostic"
+    },
+    {
+      "id": "504",
+      "categoryId": "f5",
+      "name": "Восток-Электрик",
+      "desc": "Восток-Электрик"
+    },
+    {
+      "id": "505",
+      "categoryId": "f5",
+      "name": "Centre Nova Diagnostic",
+      "desc": "Centre Nova Diagnostic"
+    },
+    {
+      "id": "506",
+      "categoryId": "f5",
+      "name": "МСС-КИП Автоматика",
+      "desc": "МСС-КИП Автоматика"
     },
     {
       "id": "507",
@@ -301,10 +396,28 @@
       "desc": "Bolashaq ИП"
     },
     {
+      "id": "508",
+      "categoryId": "f5",
+      "name": "МСС-КИП Автоматика",
+      "desc": "МСС-КИП Автоматика"
+    },
+    {
+      "id": "510",
+      "categoryId": "f5",
+      "name": "МСС-КИП Автоматика",
+      "desc": "МСС-КИП Автоматика"
+    },
+    {
+      "id": "512",
+      "categoryId": "f5",
+      "name": "МСС-КИП Автоматика",
+      "desc": "МСС-КИП Автоматика"
+    },
+    {
       "id": "517",
       "categoryId": "f5",
-      "name": "Арман Арыстан ИП",
-      "desc": "Арман Арыстан ИП"
+      "name": "Asia Express Logistics",
+      "desc": "Asia Express Logistics"
     },
     {
       "id": "523",
